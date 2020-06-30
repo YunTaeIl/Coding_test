@@ -80,20 +80,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1581914467444" />
-    <state x="664" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1581906663025">
+    <state x="664" y="407" key="com.intellij.ide.util.TipDialog" timestamp="1582014654565">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="664" y="407" key="com.intellij.ide.util.TipDialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1581906663025" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="664" y="407" key="com.intellij.ide.util.TipDialog/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1582014654565" />
   </component>
 </project>
